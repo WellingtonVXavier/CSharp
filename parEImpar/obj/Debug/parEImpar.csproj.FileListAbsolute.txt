@@ -1,0 +1,7 @@
+C:\Sistemas\parEImpar\bin\Debug\parEImpar.exe.config
+C:\Sistemas\parEImpar\bin\Debug\parEImpar.exe
+C:\Sistemas\parEImpar\bin\Debug\parEImpar.pdb
+C:\Sistemas\parEImpar\obj\Debug\parEImpar.csprojAssemblyReference.cache
+C:\Sistemas\parEImpar\obj\Debug\parEImpar.csproj.CoreCompileInputs.cache
+C:\Sistemas\parEImpar\obj\Debug\parEImpar.exe
+C:\Sistemas\parEImpar\obj\Debug\parEImpar.pdb

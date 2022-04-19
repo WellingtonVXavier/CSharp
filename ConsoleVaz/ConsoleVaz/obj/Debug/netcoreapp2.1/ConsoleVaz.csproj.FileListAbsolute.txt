@@ -1,0 +1,11 @@
+C:\Users\guilherme.farias\Desktop\GUILHERME\Guilherme Estudo\c#\VAZ\ConsoleVaz\ConsoleVaz\bin\Debug\netcoreapp2.1\ConsoleVaz.deps.json
+C:\Users\guilherme.farias\Desktop\GUILHERME\Guilherme Estudo\c#\VAZ\ConsoleVaz\ConsoleVaz\bin\Debug\netcoreapp2.1\ConsoleVaz.runtimeconfig.json
+C:\Users\guilherme.farias\Desktop\GUILHERME\Guilherme Estudo\c#\VAZ\ConsoleVaz\ConsoleVaz\bin\Debug\netcoreapp2.1\ConsoleVaz.runtimeconfig.dev.json
+C:\Users\guilherme.farias\Desktop\GUILHERME\Guilherme Estudo\c#\VAZ\ConsoleVaz\ConsoleVaz\bin\Debug\netcoreapp2.1\ConsoleVaz.dll
+C:\Users\guilherme.farias\Desktop\GUILHERME\Guilherme Estudo\c#\VAZ\ConsoleVaz\ConsoleVaz\bin\Debug\netcoreapp2.1\ConsoleVaz.pdb
+C:\Users\guilherme.farias\Desktop\GUILHERME\Guilherme Estudo\c#\VAZ\ConsoleVaz\ConsoleVaz\obj\Debug\netcoreapp2.1\ConsoleVaz.csprojAssemblyReference.cache
+C:\Users\guilherme.farias\Desktop\GUILHERME\Guilherme Estudo\c#\VAZ\ConsoleVaz\ConsoleVaz\obj\Debug\netcoreapp2.1\ConsoleVaz.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.farias\Desktop\GUILHERME\Guilherme Estudo\c#\VAZ\ConsoleVaz\ConsoleVaz\obj\Debug\netcoreapp2.1\ConsoleVaz.AssemblyInfoInputs.cache
+C:\Users\guilherme.farias\Desktop\GUILHERME\Guilherme Estudo\c#\VAZ\ConsoleVaz\ConsoleVaz\obj\Debug\netcoreapp2.1\ConsoleVaz.AssemblyInfo.cs
+C:\Users\guilherme.farias\Desktop\GUILHERME\Guilherme Estudo\c#\VAZ\ConsoleVaz\ConsoleVaz\obj\Debug\netcoreapp2.1\ConsoleVaz.dll
+C:\Users\guilherme.farias\Desktop\GUILHERME\Guilherme Estudo\c#\VAZ\ConsoleVaz\ConsoleVaz\obj\Debug\netcoreapp2.1\ConsoleVaz.pdb

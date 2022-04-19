@@ -1,0 +1,7 @@
+C:\Sistemas\CriandoVariaveis\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe.config
+C:\Sistemas\CriandoVariaveis\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe
+C:\Sistemas\CriandoVariaveis\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.pdb
+C:\Sistemas\CriandoVariaveis\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csprojAssemblyReference.cache
+C:\Sistemas\CriandoVariaveis\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Sistemas\CriandoVariaveis\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.exe
+C:\Sistemas\CriandoVariaveis\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.pdb

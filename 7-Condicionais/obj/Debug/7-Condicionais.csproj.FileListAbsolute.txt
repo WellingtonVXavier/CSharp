@@ -1,0 +1,7 @@
+C:\Sistemas\CriandoVariaveis\7-Condicionais\bin\Debug\7-Condicionais.exe.config
+C:\Sistemas\CriandoVariaveis\7-Condicionais\bin\Debug\7-Condicionais.exe
+C:\Sistemas\CriandoVariaveis\7-Condicionais\bin\Debug\7-Condicionais.pdb
+C:\Sistemas\CriandoVariaveis\7-Condicionais\obj\Debug\7-Condicionais.csprojAssemblyReference.cache
+C:\Sistemas\CriandoVariaveis\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache
+C:\Sistemas\CriandoVariaveis\7-Condicionais\obj\Debug\7-Condicionais.exe
+C:\Sistemas\CriandoVariaveis\7-Condicionais\obj\Debug\7-Condicionais.pdb
