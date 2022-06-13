@@ -1,7 +1,0 @@
-C:\Sistemas\CriandoVariaveis\9-Escopo\bin\Debug\9-Escopo.exe.config
-C:\Sistemas\CriandoVariaveis\9-Escopo\bin\Debug\9-Escopo.exe
-C:\Sistemas\CriandoVariaveis\9-Escopo\bin\Debug\9-Escopo.pdb
-C:\Sistemas\CriandoVariaveis\9-Escopo\obj\Debug\9-Escopo.csproj.CoreCompileInputs.cache
-C:\Sistemas\CriandoVariaveis\9-Escopo\obj\Debug\9-Escopo.exe
-C:\Sistemas\CriandoVariaveis\9-Escopo\obj\Debug\9-Escopo.pdb
-C:\Sistemas\CriandoVariaveis\9-Escopo\obj\Debug\9-Escopo.csprojAssemblyReference.cache
