@@ -28,7 +28,6 @@ namespace _8_Condicionais2
 
             Console.ReadLine();
 
-            Console.ReadLine();
         }
     }
 }
